@@ -21,6 +21,8 @@ https://public.tableau.com/app/profile/ali.almoghais/viz/HumanResourcesDashboard
 
 ### Screenshots
 
-<img width="550" alt="Screenshot 2025-04-03 084955" src="https://github.com/user-attachments/assets/00c2c204-eb7c-48d9-ae63-bdfa7643003f" />
+<img width="550" alt="Screenshot 2025-04-03 084955" src="https://github.com/user-attachments/assets/9a732ac7-c1c7-43d8-afb6-db267c008c22" />
 
-<img width="548" alt="Screenshot 2025-04-03 084446" src="https://github.com/user-attachments/assets/3bf21575-3d21-47ff-a10d-45b4c51cae62" />
+<img width="548" alt="Screenshot 2025-04-03 084446" src="https://github.com/user-attachments/assets/8cbb5e5d-bb43-4e40-88b8-8ae7b2583d82" />
+
+
